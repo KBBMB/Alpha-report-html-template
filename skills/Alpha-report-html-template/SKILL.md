@@ -1,5 +1,5 @@
 ---
-name: html-company-report
+name: alpha-report-html-template
 description: Build fixed 16:9 HTML company-report slide decks for corporate reports, trend reports, brand decks, and internal presentation demos. Use this skill when the user wants PPT-like paged HTML rather than a long scrolling webpage, with one slide per section, unified typography, restrained branding, embedded base64 images, and reusable slide patterns.
 ---
 
